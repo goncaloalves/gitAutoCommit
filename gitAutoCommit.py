@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug  4 12:40:31 2016
-
 @author: goalves
 """
 
