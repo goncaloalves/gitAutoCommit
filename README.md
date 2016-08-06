@@ -8,11 +8,15 @@ Please note that this is still a work in progress.
 
 It was inspired by a specific need of mine and [uncommitted] (https://github.com/eapen/uncommitted)
 
+Requires Python 3.2+
+
 Usage:
-`python3.5 gitAutoCommit.py`
+```
+python gitAutoCommit.py
+```
 
 Help Description:
-`
+```
 usage: gitAutoCommit.py [-h] [-v] [-u URL] [-c] [-l LOGLEVEL] DIR
 
 Find and Auto Commit Git Repositories
@@ -26,4 +30,4 @@ optional arguments:
   -u URL       URL with the commit messages
   -c           Commit and Push Changes
   -l LOGLEVEL  Logging Level (CRITICAL, ERROR, WARNING, INFO, DEBUG (default))
-`
+```
